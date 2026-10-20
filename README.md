@@ -3,7 +3,7 @@
 #### Project Overview
 The Home Finder Application is a comprehensive full-stack web application designed to assist users in finding homes for sale and rent. It provides a user-friendly interface for searching, filtering, and viewing property listings. This application leverages modern web technologies to deliver a seamless and efficient user experience.
 
-#### Key Features
+#### Key Features Again
 
 1. **User Authentication and Authorization**
    - **Sign Up and Login**: Users can create accounts and log in securely using JWT (JSON Web Token) authentication.
